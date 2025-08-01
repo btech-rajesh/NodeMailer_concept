@@ -1,3 +1,2 @@
-node_modules
-package-lock.json
+# this is env file in this only
 .env
